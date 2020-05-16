@@ -1,0 +1,14 @@
+Averages 2020:
+	Jan: 4.35
+	Feb: 4.14
+	Mar: 6.59
+	April: 5.77
+	May: 5.50
+
+Averages 2019:
+	Year: 193.346
+	Jan: 303.741
+	Feb: 226.107
+	Mar: 166.161
+	April: 173.366
+	May: 178.903
